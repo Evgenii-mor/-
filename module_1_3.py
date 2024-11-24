@@ -1,9 +1,7 @@
-name=("Евгений")
-print(name)
-print(name,type(name))
-age=25
-print(age)
-print(age+2)
-name1=('is_student')
-print(name1,"true")
+name1='Евгений,'
+a=12
+b=1.5
+name='Pathon,'
+c=b/a
+print(name1,'название курса',name,'всего заданий-',a,',затрачено часов-',b,',всего потрачено времни-',c)
 
