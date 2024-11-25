@@ -1,7 +1,7 @@
-name1='Евгений,'
-a=12
-b=1.5
-name='Pathon,'
-c=b/a
-print(name1,'название курса',name,'всего заданий-',a,',затрачено часов-',b,',всего потрачено времни-',c)
+example='Phantom'
+print(example[0])
+print((example[-1]))
+print(example[4:])
+print(example[::-1])
+print(example[2::2])
 
