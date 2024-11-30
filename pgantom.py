@@ -1,4 +1,6 @@
-print("hello world"' me name evgenii' )
+
+
+
 print(12+89-1)
 '1st program'
 print(9**0.5*5)
@@ -10,13 +12,25 @@ print(2*2+2)
 print(2*(2+2))
 print(2*2+2==2*(2+2))
 "4st program"
-print(float('123.456'and 123.456*10))
+vac='123.456'
+print(float(vac))
+vac=123.456
+print((vac*10))
+vac=1234.56
+print(int(vac))
+vac=1234
+print(vac/10)
 
 
 
-name1='Евгений,'
-a=12
-b=1.5
-name='Pathon,'
-c=b/a
-print(name1,'название курса',name,'всего заданий-',a,',затрачено часов-',b,',всего потрачено времни-',c)
+
+
+
+
+#print("hello world"' me name evgenii' )
+#name1='Евгений,'
+#a=12
+#b=1.5
+#name='Pathon,'
+#c=b/a
+#print(name1,'название курса',name,'всего заданий-',a,',затрачено часов-',b,',всего потрачено времни-',c)
